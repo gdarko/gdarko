@@ -25,9 +25,10 @@ I am open to remote **Software Architect**, **Senior/Staff Software Engineer**, 
 
 ## Current reference work
 
-I am building two public AI-systems labs: a tenant-safe support agent and a guarded Kubernetes incident-response agent. Both use synthetic scenarios and publish repeatable evaluation artifacts. They are **reference implementations, not client production deployments**.
+I am building two public AI-systems labs. Both use synthetic scenarios and publish repeatable evaluation artifacts. They are **reference implementations, not client production deployments**.
 
-The repositories will be linked here when their runnable baseline and first evaluation reports are ready.
+- [Tenant-safe Support Agent](https://github.com/gdarko/tenant-safe-support-agent) — LangGraph workflow with tool-side tenant enforcement, cited evidence, approval-gated writes, a threat model, and a committed 120-case deterministic policy baseline
+- Guarded Incident-response Agent — repository will be linked after its isolated test baseline and first evaluation report are ready
 
 ## Elsewhere
 
